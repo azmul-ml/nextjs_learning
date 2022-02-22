@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "salary": 100
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "salary": 300
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "salary": 400
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "salary": 500
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "salary": 100
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "salary": 50
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "salary": 300
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "salary": 300
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "salary": 40
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "salary": 600
+    },
+    {
+      "id": 11,
+      "name": "Azmul",
+      "salary": 800
+    }
+  ]
